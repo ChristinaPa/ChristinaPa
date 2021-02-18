@@ -6,6 +6,8 @@
 
 📍I'm currently learning more about Cloud Security and Python.
 
+🔸Find me on LinkedIn https://www.linkedin.com/in/christine-pardali/
+
 
 
 
