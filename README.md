@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-I'm Christina and I'm studying Electrical and Computer Engineering!I love cloud computing and I'm a Microsoft Learn Student Ambassador since January 2020 😄
+🔸I'm Christina and I'm studying Electrical and Computer Engineering!
 
-I'm currently learning more about Cloud Security and Python
+🔹I love cloud computing and I'm a Microsoft Learn Student Ambassador since January 2020 😄
+
+🔸I'm currently learning more about Cloud Security and Python.
+
 
 <!--
 **ChristinaPa/ChristinaPa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
