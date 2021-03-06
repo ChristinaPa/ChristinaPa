@@ -4,7 +4,7 @@
 
 💡I love cloud computing and I'm a Microsoft Learn Student Ambassador since January 2020 😄
 
-📍I'm currently learning more about Cloud Security and Python.
+📍I'm currently learning more about Microsoft Power Platfrom,Azure Machine Learning and Python!
 
 🔸Find me on LinkedIn https://www.linkedin.com/in/christine-pardali/
 
