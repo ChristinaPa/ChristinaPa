@@ -6,7 +6,7 @@
 
 📍I'm currently learning more about Microsoft Power Platfrom,Azure Machine Learning and Python!
 
-🔸Find me on [LinkedIn]  (https://www.linkedin.com/in/christine-pardali/)
+🔸Find me on LinkedIn https://www.linkedin.com/in/christine-pardali/
 
 
 
