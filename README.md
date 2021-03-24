@@ -1,3 +1,9 @@
+<p align="center">
+  <img src=https://raw.githubusercontent.com/ChristinaPa/ChristinaPa/main/README%20Photo.jpg>
+</p>
+
+
+
 ### Hi there 👋
 
 🔸I'm Christina and I'm studying Electrical and Computer Engineering in Greece!
