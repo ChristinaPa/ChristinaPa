@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔸I'm Christina and I'm studying Electrical and Computer Engineering!
+🔸I'm Christina and I'm studying Electrical and Computer Engineering in Greece!
 
 💡I love cloud computing and I'm a Microsoft Learn Student Ambassador since January 2020 😄
 
