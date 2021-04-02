@@ -3,7 +3,7 @@
 
 🔸I'm Christina and I'm studying Electrical and Computer Engineering in Greece!
 
-💡I love cloud computing and I'm a Microsoft Learn Student Ambassador since January 2020 😄
+💡I love cloud computing and I'm a Microsoft Learn Student Ambassador.
 
 📍I'm currently learning more about Microsoft Power Platfrom,Azure Machine Learning and Python!
 
