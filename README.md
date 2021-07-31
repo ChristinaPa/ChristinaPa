@@ -5,7 +5,7 @@
 
 💡I love cloud computing and I'm a Microsoft Learn Student Ambassador.
 
-🔸I'm currently learning more about Microsoft Power Platfrom,Azure Machine Learning and Python!
+🔸I'm currently learning more about Azure Machine Learning!
 
 ⚡Find me on LinkedIn https://www.linkedin.com/in/christine-pardali/
 
