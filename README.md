@@ -1,11 +1,11 @@
 
 ### Hi there 👋
 
-🔸I'm Christina and I'm studying Electrical and Computer Engineering in Greece!
+🔸I'm Christina and I'm studying Electrical and Computer Engineering !
 
 💡I love cloud computing and I'm a Microsoft Learn Student Ambassador.
 
-🔸I'm currently learning more about Azure Machine Learning!
+🔸I'm currently doing my internship in Microsoft Germany as a Business Application Sales Executive!
 
 ⚡Find me on LinkedIn https://www.linkedin.com/in/christine-pardali/
 
